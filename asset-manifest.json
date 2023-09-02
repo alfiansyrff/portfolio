@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.92ceb9cf.css",
-    "main.js": "/react-portfolio/static/js/main.6db7eeee.js",
-    "static/media/portfolio-6.png": "/react-portfolio/static/media/portfolio-6.4a10fac7d271e87859e9.png",
-    "static/media/portfolio-2.png": "/react-portfolio/static/media/portfolio-2.33d06b368b4e6395030e.png",
-    "static/media/portfolio-4.png": "/react-portfolio/static/media/portfolio-4.8e8bac5e33dc3f211e2b.png",
-    "static/media/portfolio-1.png": "/react-portfolio/static/media/portfolio-1.b33adf772d54ab33e953.png",
-    "static/media/me.png": "/react-portfolio/static/media/me.241fb15fe360929a255a.png",
-    "static/media/portfolio-5.png": "/react-portfolio/static/media/portfolio-5.bf754db8618dd60ec6f1.png",
-    "static/media/portfolio-3.png": "/react-portfolio/static/media/portfolio-3.ca4192894d93b08ad3b5.png",
-    "static/media/facebook.png": "/react-portfolio/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/adobe.png": "/react-portfolio/static/media/adobe.a08b8360ff7b700ed0c4.png",
-    "static/media/walmart.png": "/react-portfolio/static/media/walmart.1d2b5e5c5c5a8e2bd5ce.png",
-    "static/media/ui-design.png": "/react-portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/react-portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/react-portfolio/index.html",
-    "main.92ceb9cf.css.map": "/react-portfolio/static/css/main.92ceb9cf.css.map",
-    "main.6db7eeee.js.map": "/react-portfolio/static/js/main.6db7eeee.js.map"
+    "main.css": "/portfolio/static/css/main.7e86a5b7.css",
+    "main.js": "/portfolio/static/js/main.110a458a.js",
+    "static/media/web63.PNG": "/portfolio/static/media/web63.c40ffc165a7178c907f9.PNG",
+    "static/media/pkkmb.jpeg": "/portfolio/static/media/pkkmb.e7efd5952bff01d1b000.jpeg",
+    "static/media/futsal.jpeg": "/portfolio/static/media/futsal.f2f9dcbfaeee553b630b.jpeg",
+    "static/media/me.png": "/portfolio/static/media/me.241fb15fe360929a255a.png",
+    "static/media/bot-dpm.jpeg": "/portfolio/static/media/bot-dpm.a71e1f0a960a00cc0653.jpeg",
+    "static/media/bot-kelapa.jpeg": "/portfolio/static/media/bot-kelapa.44951729ceb29aa55ffc.jpeg",
+    "static/media/asah.png": "/portfolio/static/media/asah.2fac8ad7dcda3ca61e6b.png",
+    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/tiktok.svg": "/portfolio/static/media/tiktok.5f694f8c977f90e28f92d83d9c81a29a.svg",
+    "static/media/server.svg": "/portfolio/static/media/server.5f1f9c3ce79d5ce910bbc586489a0fc5.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/linkedin.svg": "/portfolio/static/media/linkedin.472162bfd17256365103ba572e3a9a58.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/database.svg": "/portfolio/static/media/database.655702a1cf2eeeca66211cc73123df7e.svg",
+    "static/media/cv.svg": "/portfolio/static/media/cv.42a2ab6fa67739c30d1d1150f7012ba2.svg",
+    "main.7e86a5b7.css.map": "/portfolio/static/css/main.7e86a5b7.css.map",
+    "main.110a458a.js.map": "/portfolio/static/js/main.110a458a.js.map"
   },
   "entrypoints": [
-    "static/css/main.92ceb9cf.css",
-    "static/js/main.6db7eeee.js"
+    "static/css/main.7e86a5b7.css",
+    "static/js/main.110a458a.js"
   ]
 }
