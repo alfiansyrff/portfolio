@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.f438ec7a.css",
-    "main.js": "/portfolio/static/js/main.9a6055db.js",
-    "static/media/web63.PNG": "/portfolio/static/media/web63.c40ffc165a7178c907f9.PNG",
-    "static/media/pkkmb.jpeg": "/portfolio/static/media/pkkmb.e7efd5952bff01d1b000.jpeg",
-    "static/media/futsal.jpeg": "/portfolio/static/media/futsal.f2f9dcbfaeee553b630b.jpeg",
-    "static/media/me.png": "/portfolio/static/media/me.241fb15fe360929a255a.png",
-    "static/media/bot-dpm.jpeg": "/portfolio/static/media/bot-dpm.a71e1f0a960a00cc0653.jpeg",
-    "static/media/bot-kelapa.jpeg": "/portfolio/static/media/bot-kelapa.44951729ceb29aa55ffc.jpeg",
-    "static/media/asah.png": "/portfolio/static/media/asah.2fac8ad7dcda3ca61e6b.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "main.js": "/portfolio/static/js/main.0da496e2.js",
+    "static/media/pkkmb.webp": "/portfolio/static/media/pkkmb.073bb9c3dc1f75819120.webp",
+    "static/media/futsal.webp": "/portfolio/static/media/futsal.89869351036de2f752ce.webp",
+    "static/media/web63.webp": "/portfolio/static/media/web63.4abd1d41e19558921135.webp",
+    "static/media/bot-kelapa.webp": "/portfolio/static/media/bot-kelapa.4724f99b10cd23a6582a.webp",
+    "static/media/bot-dpm.webp": "/portfolio/static/media/bot-dpm.bfd196799424a7d8f038.webp",
+    "static/media/me.webp": "/portfolio/static/media/me.9efa2963308583fcef10.webp",
+    "static/media/asah.webp": "/portfolio/static/media/asah.faa7bc0b029db3aa6ace.webp",
     "static/media/tiktok.svg": "/portfolio/static/media/tiktok.5f694f8c977f90e28f92d83d9c81a29a.svg",
+    "static/media/instagram.webp": "/portfolio/static/media/instagram.958038ef6e84053e8c0a.webp",
     "static/media/server.svg": "/portfolio/static/media/server.5f1f9c3ce79d5ce910bbc586489a0fc5.svg",
     "static/media/github.svg": "/portfolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
     "static/media/linkedin.svg": "/portfolio/static/media/linkedin.472162bfd17256365103ba572e3a9a58.svg",
     "index.html": "/portfolio/index.html",
+    "static/media/app-design.webp": "/portfolio/static/media/app-design.f4c534cf707abf582ad9.webp",
     "static/media/database.svg": "/portfolio/static/media/database.655702a1cf2eeeca66211cc73123df7e.svg",
+    "static/media/hamburger.webp": "/portfolio/static/media/hamburger.cd0d93af5cf471315aa8.webp",
     "static/media/cv.svg": "/portfolio/static/media/cv.42a2ab6fa67739c30d1d1150f7012ba2.svg",
     "main.f438ec7a.css.map": "/portfolio/static/css/main.f438ec7a.css.map",
-    "main.9a6055db.js.map": "/portfolio/static/js/main.9a6055db.js.map"
+    "main.0da496e2.js.map": "/portfolio/static/js/main.0da496e2.js.map"
   },
   "entrypoints": [
     "static/css/main.f438ec7a.css",
-    "static/js/main.9a6055db.js"
+    "static/js/main.0da496e2.js"
   ]
 }
